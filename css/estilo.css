@@ -1,0 +1,141 @@
+*{margin: 0px;}
+.caja1
+{
+	background-color: chocolate;
+	width: 300px;
+	height: 300px;
+	position: relative;
+	border-radius: 200px;
+	top: 150px;
+	left: 200px;
+}
+.caja1-1
+{
+	background-color: black;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	border-radius: 20px;
+	top: 100px;
+	left: 200px;
+}
+
+.caja1-2{
+	background-color: black;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	border-radius: 20px;
+	top: 100px;
+	left: 100px;
+}
+.caja1-3
+{
+	background-color: black;
+	width: 30px;
+	height: 30px;
+	position: absolute;
+	border-radius: 20px;
+	top: 150px;
+	left: 150px;
+}
+.caja1-4
+{
+	background-color: black;
+	width: 10px;
+	height: 30px;
+	position: relative;
+	
+	top: 180px;
+	left: 160px;
+}
+.caja1-5
+{
+	background-color: black;
+	width: 100px;
+	height: 10px;
+	position: relative;
+	
+	top: 180px;
+	left: 120px;
+}
+.caja2
+{
+	background-color: chocolate;
+	width: 200px;
+	height: 100px;
+	position: relative;
+	border-radius: 90px;
+	top: 150px;
+	left: 100px;
+}
+.caja2-1
+{
+	background-color: chocolate;
+	width: 200px;
+	height: 100px;
+	position: absolute;
+	border-radius: 90px;
+	top: 550px;
+	left: 450px;
+}
+
+.caja0-1{
+	background-color: chocolate;
+	width: 90px;
+	height: 90px;
+	position: relative;
+	border-radius: 60px;
+	top: 200px;
+	left: 200px;
+}
+.caja0-2{
+	background-color: chocolate;
+	width: 90px;
+	height: 90px;
+	position: absolute;
+	border-radius: 60px;
+	top: 200px;
+	left: 400px;
+}
+.caja3
+{
+	background-color: chocolate;
+	width: 300px;
+	height: 300px;
+	position: relative;
+	border-radius: 200px;
+	top: 50px;
+	left: 200px;
+}
+.caja3-1
+{
+	background-color: white;
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	border-radius: 100px;
+	top: 50px;
+	left: 50px;
+}
+.caja4
+{
+	background-color: chocolate;
+	width: 100px;
+	height: 100px;
+	border-radius: 70px;
+	position: relative;
+	top: 10px;
+	left: 200px;
+}
+
+.caja6
+{
+	background-color: chocolate;
+	width: 100px;
+	height: 100px;
+	border-radius: 70px;
+	position: relative;
+	top: -100px;
+	left: 400px;
+}
